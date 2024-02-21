@@ -1,0 +1,7 @@
+\\Mac\Home\Documents\My Coding\DotNet Projects\ChuaDeThiThu\ChuaDeThiThu\bin\Debug\ChuaDeThiThu.exe.config
+\\Mac\Home\Documents\My Coding\DotNet Projects\ChuaDeThiThu\ChuaDeThiThu\bin\Debug\ChuaDeThiThu.exe
+\\Mac\Home\Documents\My Coding\DotNet Projects\ChuaDeThiThu\ChuaDeThiThu\bin\Debug\ChuaDeThiThu.pdb
+\\Mac\Home\Documents\My Coding\DotNet Projects\ChuaDeThiThu\ChuaDeThiThu\obj\Debug\ChuaDeThiThu.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\My Coding\DotNet Projects\ChuaDeThiThu\ChuaDeThiThu\obj\Debug\ChuaDeThiThu.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\My Coding\DotNet Projects\ChuaDeThiThu\ChuaDeThiThu\obj\Debug\ChuaDeThiThu.exe
+\\Mac\Home\Documents\My Coding\DotNet Projects\ChuaDeThiThu\ChuaDeThiThu\obj\Debug\ChuaDeThiThu.pdb
